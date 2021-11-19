@@ -146,7 +146,7 @@ img{
 #background_image {    
     height: 350px;
     padding-top: 50px; 
-    background: url(./img/bat_cover.jpg);
+    background: url(img/bat_cover.jpg);
     color: #fff;
     margin: auto;
     margin-top: 25px;
@@ -154,7 +154,7 @@ img{
 
 @media (max-width:961px){
     #background_image {
-        background: url(./img/bat_cover.jpg);
+        background: url(img/bat_cover.jpg);
     }
 }
 
